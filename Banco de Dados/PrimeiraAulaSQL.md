@@ -14,8 +14,8 @@ Este estudo de caso contempla a modelagem de um banco de dados de um delivery.
 <ol>2. O restaurante possui vários funcionários.</ol> 
 <ol>3. Os pedidos são entregues por entregadores autônomos.</ol>  
 <ol>4. O aplicativo deverá possuir produtos. </ol> 
-<ol>5. Os pedidos referentes a cada restaurante deverão ser</ol>  devidamente armazenados. </ol> 
+<ol>5. Os pedidos referentes a cada restaurante deverão ser  devidamente armazenados. </ol> 
 <ol>6. Para fazer um pedido no sistema de delivery, o cliente deverá estar previamente cadastrado.</ol> </p>
 
 A partir das regras de negócio identifiquei as seguintes ENTIDADES:
-Restaurante - Cliente - Pedido - Produto - Funcionario - Entregador - Cidade - Estado.
+<p><ol>Restaurante - Cliente - Pedido - Produto - Funcionario - Entregador - Cidade - Estado.</ol></p>
