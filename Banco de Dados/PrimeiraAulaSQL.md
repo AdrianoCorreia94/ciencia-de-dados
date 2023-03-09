@@ -2,11 +2,11 @@ Esse é o estudo de caso da aula de Banco de Dados SQL.
 
 Este estudo de caso contempla a modelagem de um banco de dados de um delivery.
 
-ETAPA 01 DA MODELAGEM:
+#ETAPA 01 DA MODELAGEM:
 
-MODELAGEM CONCEITUAL
+##MODELAGEM CONCEITUAL
 
-Primeiro Passo:
+###Primeiro Passo:
 Entender as regras de negócios, as quais são:
 
 O restaurante “Comer é Bom Demais” forneceu, inicialmente, as seguintes regras de negócio: 
