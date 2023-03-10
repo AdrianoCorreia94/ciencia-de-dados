@@ -24,6 +24,7 @@
     </ol>
     <ol>Pedido:
         <ol>Precisa-se manter as informações sobre quem fez o pedido, para qual filial e qual(is) foi(ram) o(s) produto(s) escolhido(s);</ol>
+    </ol>
     <ol>Produto:
         <ol>Sempre será referenciado dentro de um pedido;</ol>
     </ol>
